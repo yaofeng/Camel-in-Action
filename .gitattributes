@@ -1,1 +1,27 @@
 * text=auto !eol
+chapter2/cbr/pom.xml -text
+chapter2/cbr/src/data/message1.xml -text
+chapter2/cbr/src/data/message2.csv -text
+chapter2/cbr/src/data/message3.csl -text
+chapter2/cbr/src/data/message4.bad -text
+chapter2/cbr/src/main/java/camelinaction/Order.java -text
+chapter2/cbr/src/main/java/camelinaction/OrderRouter.java -text
+chapter2/cbr/src/main/java/camelinaction/OrderRouterOtherwise.java -text
+chapter2/cbr/src/main/resources/log4j.properties -text
+chapter2/file-jms/pom.xml -text
+chapter2/file-jms/src/main/java/camelinaction/FileToJMSExample.java -text
+chapter2/file-jms/src/main/java/camelinaction/FileToJMSWithProcessorExample.java -text
+chapter2/file-jms/src/main/java/camelinaction/RouteBuilderExample.java -text
+chapter2/file-jms/src/main/resources/log4j.properties -text
+chapter2/filter/pom.xml -text
+chapter2/filter/src/data/message1.xml -text
+chapter2/filter/src/data/testmessage.xml -text
+chapter2/filter/src/main/java/camelinaction/OrderRouterWithFilter.java -text
+chapter2/filter/src/main/resources/log4j.properties -text
+chapter2/pom.xml -text
+chapter2/wiretap/pom.xml -text
+chapter2/wiretap/src/data/message1.xml -text
+chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithOutputProcessor.java -text
+chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithWireTap.java -text
+chapter2/wiretap/src/main/resources/log4j.properties -text
+/pom.xml -text
