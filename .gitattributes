@@ -18,6 +18,10 @@ chapter2/filter/src/data/message1.xml -text
 chapter2/filter/src/data/testmessage.xml -text
 chapter2/filter/src/main/java/camelinaction/OrderRouterWithFilter.java -text
 chapter2/filter/src/main/resources/log4j.properties -text
+chapter2/multicast/pom.xml -text
+chapter2/multicast/src/data/message1.xml -text
+chapter2/multicast/src/main/java/camelinaction/OrderRouterWithMulticast.java -text
+chapter2/multicast/src/main/resources/log4j.properties -text
 chapter2/pom.xml -text
 chapter2/wiretap/pom.xml -text
 chapter2/wiretap/src/data/message1.xml -text
