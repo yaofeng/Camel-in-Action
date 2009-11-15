@@ -49,6 +49,15 @@ chapter2/wiretap/.settings
 chapter2/wiretap/classes
 chapter2/wiretap/eclipse-classes
 chapter2/wiretap/target
+chapter9/riderautoparts-partner/*.i??
+chapter9/riderautoparts-partner/.checkstyle
+chapter9/riderautoparts-partner/.classpath
+chapter9/riderautoparts-partner/.pmd
+chapter9/riderautoparts-partner/.project
+chapter9/riderautoparts-partner/.settings
+chapter9/riderautoparts-partner/classes
+chapter9/riderautoparts-partner/eclipse-classes
+chapter9/riderautoparts-partner/target
 /classes
 /eclipse-classes
 /target
