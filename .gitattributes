@@ -23,6 +23,13 @@ chapter2/multicast/src/data/message1.xml -text
 chapter2/multicast/src/main/java/camelinaction/OrderRouterWithMulticast.java -text
 chapter2/multicast/src/main/resources/log4j.properties -text
 chapter2/pom.xml -text
+chapter2/spring/pom.xml -text
+chapter2/spring/src/main/java/camelinaction/DanishGreeter.java -text
+chapter2/spring/src/main/java/camelinaction/EnglishGreeter.java -text
+chapter2/spring/src/main/java/camelinaction/GreetMeBean.java -text
+chapter2/spring/src/main/java/camelinaction/Greeter.java -text
+chapter2/spring/src/main/resources/beans.xml -text
+chapter2/spring/src/main/resources/log4j.properties -text
 chapter2/wiretap/pom.xml -text
 chapter2/wiretap/src/data/message1.xml -text
 chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithOutputProcessor.java -text
