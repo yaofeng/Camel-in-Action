@@ -28,6 +28,7 @@ chapter2/spring/src/data/message1.xml -text
 chapter2/spring/src/main/java/camelinaction/DanishGreeter.java -text
 chapter2/spring/src/main/java/camelinaction/DownloadLogger.java -text
 chapter2/spring/src/main/java/camelinaction/EnglishGreeter.java -text
+chapter2/spring/src/main/java/camelinaction/FileToJMSRoute.java -text
 chapter2/spring/src/main/java/camelinaction/GreetMeBean.java -text
 chapter2/spring/src/main/java/camelinaction/Greeter.java -text
 chapter2/spring/src/main/resources/META-INF/spring/camel-context.xml -text
