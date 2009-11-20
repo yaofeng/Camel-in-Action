@@ -7,6 +7,7 @@ chapter2/cbr/src/data/message4.bad -text
 chapter2/cbr/src/main/java/camelinaction/Order.java -text
 chapter2/cbr/src/main/java/camelinaction/OrderRouter.java -text
 chapter2/cbr/src/main/java/camelinaction/OrderRouterOtherwise.java -text
+chapter2/cbr/src/main/java/camelinaction/OrderRouterWithStop.java -text
 chapter2/cbr/src/main/resources/log4j.properties -text
 chapter2/file-jms/pom.xml -text
 chapter2/file-jms/src/main/java/camelinaction/FileToJMSExample.java -text
