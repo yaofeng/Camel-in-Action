@@ -50,6 +50,7 @@ chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithWireTap.java -text
 chapter2/wiretap/src/main/resources/log4j.properties -text
 chapter9/pom.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/pom.xml svneol=native#text/xml
+chapter9/riderautoparts-partner/src/test/resources/camelinaction/RiderAutoPartsPartnerTXTest.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/src/test/resources/camelinaction/RiderAutoPartsPartnerTest.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/src/test/resources/log4j.properties svneol=native#text/plain
 /pom.xml -text
