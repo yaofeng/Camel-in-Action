@@ -25,6 +25,13 @@ chapter2/multicast/src/main/java/camelinaction/OrderRouterWithMulticast.java -te
 chapter2/multicast/src/main/java/camelinaction/OrderRouterWithParallelMulticast.java -text
 chapter2/multicast/src/main/resources/log4j.properties -text
 chapter2/pom.xml -text
+chapter2/recipientlist/pom.xml -text
+chapter2/recipientlist/src/data/message1.xml -text
+chapter2/recipientlist/src/data/message2.xml -text
+chapter2/recipientlist/src/main/java/camelinaction/OrderRouterWithRecipientList.java -text
+chapter2/recipientlist/src/main/java/camelinaction/OrderRouterWithRecipientListBean.java -text
+chapter2/recipientlist/src/main/java/camelinaction/RecipientListBean.java -text
+chapter2/recipientlist/src/main/resources/log4j.properties -text
 chapter2/spring/pom.xml -text
 chapter2/spring/src/data/message1.xml -text
 chapter2/spring/src/main/java/camelinaction/DanishGreeter.java -text
