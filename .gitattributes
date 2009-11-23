@@ -1,5 +1,6 @@
 * text=auto !eol
 chapter2/cbr/pom.xml -text
+chapter2/cbr/readme.txt -text
 chapter2/cbr/src/data/message1.xml -text
 chapter2/cbr/src/data/message2.csv -text
 chapter2/cbr/src/data/message3.csl -text
@@ -10,22 +11,26 @@ chapter2/cbr/src/main/java/camelinaction/OrderRouterOtherwise.java -text
 chapter2/cbr/src/main/java/camelinaction/OrderRouterWithStop.java -text
 chapter2/cbr/src/main/resources/log4j.properties -text
 chapter2/file-jms/pom.xml -text
+chapter2/file-jms/readme.txt -text
 chapter2/file-jms/src/main/java/camelinaction/FileToJMSExample.java -text
 chapter2/file-jms/src/main/java/camelinaction/FileToJMSWithProcessorExample.java -text
 chapter2/file-jms/src/main/java/camelinaction/RouteBuilderExample.java -text
 chapter2/file-jms/src/main/resources/log4j.properties -text
 chapter2/filter/pom.xml -text
+chapter2/filter/readme.txt -text
 chapter2/filter/src/data/message1.xml -text
 chapter2/filter/src/data/testmessage.xml -text
 chapter2/filter/src/main/java/camelinaction/OrderRouterWithFilter.java -text
 chapter2/filter/src/main/resources/log4j.properties -text
 chapter2/multicast/pom.xml -text
+chapter2/multicast/readme.txt -text
 chapter2/multicast/src/data/message1.xml -text
 chapter2/multicast/src/main/java/camelinaction/OrderRouterWithMulticast.java -text
 chapter2/multicast/src/main/java/camelinaction/OrderRouterWithParallelMulticast.java -text
 chapter2/multicast/src/main/resources/log4j.properties -text
 chapter2/pom.xml -text
 chapter2/recipientlist/pom.xml -text
+chapter2/recipientlist/readme.txt -text
 chapter2/recipientlist/src/data/message1.xml -text
 chapter2/recipientlist/src/data/message2.xml -text
 chapter2/recipientlist/src/main/java/camelinaction/OrderRouterWithRecipientList.java -text
@@ -33,6 +38,7 @@ chapter2/recipientlist/src/main/java/camelinaction/OrderRouterWithRecipientListB
 chapter2/recipientlist/src/main/java/camelinaction/RecipientListBean.java -text
 chapter2/recipientlist/src/main/resources/log4j.properties -text
 chapter2/spring/pom.xml -text
+chapter2/spring/readme.txt -text
 chapter2/spring/src/data/message1.xml -text
 chapter2/spring/src/main/java/camelinaction/DanishGreeter.java -text
 chapter2/spring/src/main/java/camelinaction/DownloadLogger.java -text
@@ -44,6 +50,7 @@ chapter2/spring/src/main/resources/META-INF/spring/camel-context.xml -text
 chapter2/spring/src/main/resources/beans.xml -text
 chapter2/spring/src/main/resources/log4j.properties -text
 chapter2/wiretap/pom.xml -text
+chapter2/wiretap/readme.txt -text
 chapter2/wiretap/src/data/message1.xml -text
 chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithOutputProcessor.java -text
 chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithWireTap.java -text
