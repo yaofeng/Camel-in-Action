@@ -58,7 +58,6 @@ chapter2/wiretap/src/main/resources/log4j.properties -text
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
 chapter9/multiple-routes/src/test/resources/spring-context.xml svneol=native#text/xml
-chapter9/multiple-routes/src/test/resources/spring-nontx-context.xml svneol=native#text/xml
 chapter9/pom.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/pom.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/src/test/resources/camelinaction/RiderAutoPartsPartnerTXTest.xml svneol=native#text/xml
