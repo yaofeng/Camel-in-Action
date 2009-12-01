@@ -1,4 +1,10 @@
 * text=auto !eol
+chapter0/file-copy/data/inbox/message1.xml -text
+chapter0/file-copy/pom.xml -text
+chapter0/file-copy/src/main/java/camelinaction/FileCopier.java -text
+chapter0/file-copy/src/main/java/camelinaction/FileCopierWithCamel.java -text
+chapter0/file-copy/src/main/resources/log4j.properties -text
+chapter0/pom.xml -text
 chapter2/cbr/pom.xml -text
 chapter2/cbr/readme.txt -text
 chapter2/cbr/src/data/message1.xml -text
