@@ -63,6 +63,8 @@ chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithWireTap.java -text
 chapter2/wiretap/src/main/resources/log4j.properties -text
 chapter3/pom.xml svneol=native#text/xml
 chapter3/transform/pom.xml svneol=native#text/xml
+chapter3/transform/src/test/resources/camelinaction/SpringTransformMethodTest.xml svneol=native#text/xml
+chapter3/transform/src/test/resources/camelinaction/SpringTransformScriptTest.xml svneol=native#text/xml
 chapter3/transform/src/test/resources/log4j.properties svneol=native#text/plain
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
