@@ -65,6 +65,7 @@ chapter3/order/pom.xml svneol=native#text/xml
 chapter3/order/src/test/resources/camelinaction/jaxb.index -text
 chapter3/order/src/test/resources/camelinaction/order-jaxb.xml svneol=native#text/xml
 chapter3/order/src/test/resources/log4j.properties svneol=native#text/plain
+chapter3/order/src/test/resources/order.csv -text
 chapter3/pom.xml svneol=native#text/xml
 chapter3/transform/pom.xml svneol=native#text/xml
 chapter3/transform/src/test/resources/camelinaction/SpringTransformMethodTest.xml svneol=native#text/xml
