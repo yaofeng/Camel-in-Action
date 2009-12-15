@@ -63,6 +63,7 @@ chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithWireTap.java -text
 chapter2/wiretap/src/main/resources/log4j.properties -text
 chapter3/order/pom.xml svneol=native#text/xml
 chapter3/order/src/test/resources/camelinaction/jaxb.index -text
+chapter3/order/src/test/resources/camelinaction/mail.vm -text
 chapter3/order/src/test/resources/camelinaction/order-jaxb.xml svneol=native#text/xml
 chapter3/order/src/test/resources/camelinaction/reverse.xml svneol=native#text/xml
 chapter3/order/src/test/resources/log4j.properties svneol=native#text/plain
