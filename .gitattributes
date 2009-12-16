@@ -74,6 +74,7 @@ chapter3/transform/src/test/resources/camelinaction/SpringTransformMethodTest.xm
 chapter3/transform/src/test/resources/camelinaction/SpringTransformScriptTest.xml svneol=native#text/xml
 chapter3/transform/src/test/resources/log4j.properties svneol=native#text/plain
 chapter5/errorhandler/pom.xml svneol=native#text/xml
+chapter5/errorhandler/src/test/resources/camelinaction/RouteScopeTest.xml svneol=native#text/xml
 chapter5/errorhandler/src/test/resources/log4j.properties svneol=native#text/plain
 chapter5/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
