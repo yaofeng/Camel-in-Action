@@ -5,6 +5,10 @@ chapter1/file-copy/src/main/java/camelinaction/FileCopier.java -text
 chapter1/file-copy/src/main/java/camelinaction/FileCopierWithCamel.java -text
 chapter1/file-copy/src/main/resources/log4j.properties -text
 chapter1/pom.xml -text
+chapter11/health/pom.xml svneol=native#text/xml
+chapter11/health/src/main/resources/log4j.properties svneol=native#text/plain
+chapter11/health/src/test/resources/log4j.properties svneol=native#text/plain
+chapter11/pom.xml svneol=native#text/xml
 chapter2/cbr/pom.xml -text
 chapter2/cbr/readme.txt -text
 chapter2/cbr/src/data/message1.xml -text
