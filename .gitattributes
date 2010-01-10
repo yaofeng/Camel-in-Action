@@ -8,6 +8,9 @@ chapter1/pom.xml -text
 chapter11/health/pom.xml svneol=native#text/xml
 chapter11/health/src/main/resources/log4j.properties svneol=native#text/plain
 chapter11/health/src/test/resources/log4j.properties svneol=native#text/plain
+chapter11/logging/pom.xml svneol=native#text/xml
+chapter11/logging/src/test/resources/camelinaction/LogEIPSpringTest.xml svneol=native#text/xml
+chapter11/logging/src/test/resources/log4j.properties svneol=native#text/plain
 chapter11/pom.xml svneol=native#text/xml
 chapter2/cbr/pom.xml -text
 chapter2/cbr/readme.txt -text
