@@ -12,6 +12,10 @@ chapter11/logging/pom.xml svneol=native#text/xml
 chapter11/logging/src/test/resources/camelinaction/LogEIPSpringTest.xml svneol=native#text/xml
 chapter11/logging/src/test/resources/log4j.properties svneol=native#text/plain
 chapter11/pom.xml svneol=native#text/xml
+chapter11/tracer/pom.xml svneol=native#text/xml
+chapter11/tracer/src/main/resources/log4j.properties svneol=native#text/plain
+chapter11/tracer/src/test/resources/camelinaction/TracerSpringTest.xml svneol=native#text/xml
+chapter11/tracer/src/test/resources/log4j.properties svneol=native#text/plain
 chapter2/cbr/pom.xml -text
 chapter2/cbr/readme.txt -text
 chapter2/cbr/src/data/message1.xml -text
