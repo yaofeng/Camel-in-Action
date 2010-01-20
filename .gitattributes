@@ -74,6 +74,9 @@ chapter2/wiretap/src/data/message1.xml -text
 chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithOutputProcessor.java -text
 chapter2/wiretap/src/main/java/camelinaction/OrderRouterWithWireTap.java -text
 chapter2/wiretap/src/main/resources/log4j.properties -text
+chapter3/converter/pom.xml svneol=native#text/xml
+chapter3/converter/src/main/resources/META-INF/services/org/apache/camel/TypeConverter -text
+chapter3/converter/src/test/resources/log4j.properties svneol=native#text/plain
 chapter3/order/pom.xml svneol=native#text/xml
 chapter3/order/src/test/resources/camelinaction/jaxb.index -text
 chapter3/order/src/test/resources/camelinaction/mail.vm -text
