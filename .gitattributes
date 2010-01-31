@@ -127,6 +127,14 @@ chapter6/firsttest/src/test/resources/rider-test.properties svneol=native#text/p
 chapter6/miranda/pom.xml svneol=native#text/xml
 chapter6/miranda/src/test/resources/log4j.properties svneol=native#text/plain
 chapter6/pom.xml svneol=native#text/xml
+chapter7/file/data/inbox/message1.xml -text
+chapter7/file/pom.xml -text
+chapter7/file/readme.txt -text
+chapter7/file/src/main/java/camelinaction/FilePrinter.java -text
+chapter7/file/src/main/java/camelinaction/FileSaver.java -text
+chapter7/file/src/main/java/camelinaction/FileSaverWithFileName.java -text
+chapter7/file/src/main/resources/log4j.properties -text
+chapter7/pom.xml -text
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
 chapter9/multiple-routes/src/test/resources/spring-context.xml svneol=native#text/xml
