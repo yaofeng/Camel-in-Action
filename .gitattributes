@@ -134,6 +134,12 @@ chapter7/file/src/main/java/camelinaction/FilePrinter.java -text
 chapter7/file/src/main/java/camelinaction/FileSaver.java -text
 chapter7/file/src/main/java/camelinaction/FileSaverWithFileName.java -text
 chapter7/file/src/main/resources/log4j.properties -text
+chapter7/ftp/pom.xml -text
+chapter7/ftp/readme.txt -text
+chapter7/ftp/src/main/java/camelinaction/FtpServerBean.java -text
+chapter7/ftp/src/main/resources/META-INF/spring/camelContext.xml -text
+chapter7/ftp/src/main/resources/log4j.properties -text
+chapter7/ftp/src/main/resources/users.properties -text
 chapter7/pom.xml -text
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
