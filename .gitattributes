@@ -21,6 +21,9 @@ chapter12/tracer/src/main/resources/log4j.properties svneol=native#text/plain
 chapter12/tracer/src/test/resources/camelinaction/TracerSpringTest.xml svneol=native#text/xml
 chapter12/tracer/src/test/resources/log4j.properties svneol=native#text/plain
 chapter13/pom.xml svneol=native#text/xml
+chapter13/routepolicy/pom.xml svneol=native#text/xml
+chapter13/routepolicy/src/test/resources/camel-fliproute.xml svneol=native#text/xml
+chapter13/routepolicy/src/test/resources/log4j.properties svneol=native#text/plain
 chapter13/startup/pom.xml svneol=native#text/xml
 chapter13/startup/src/main/resources/META-INF/services/org/apache/camel/TypeConverter -text
 chapter13/startup/src/main/resources/wsdl/inventory.wsdl svneol=native#text/xml
