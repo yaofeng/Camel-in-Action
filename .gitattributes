@@ -160,9 +160,6 @@ chapter7/ftp/src/main/resources/META-INF/spring/camelContext.xml -text
 chapter7/ftp/src/main/resources/log4j.properties -text
 chapter7/ftp/src/main/resources/users.properties -text
 chapter7/pom.xml -text
-chapter9/multiple-routes/pom.xml svneol=native#text/xml
-chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
-chapter9/multiple-routes/src/test/resources/spring-context.xml svneol=native#text/xml
 chapter9/oncompletion/pom.xml svneol=native#text/xml
 chapter9/oncompletion/src/test/resources/META-INF/spring/oncompletion.xml svneol=native#text/xml
 chapter9/oncompletion/src/test/resources/log4j.properties svneol=native#text/plain
@@ -179,4 +176,7 @@ chapter9/riderautoparts-partner/pom.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/src/test/resources/camelinaction/RiderAutoPartsPartnerTXTest.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/src/test/resources/camelinaction/RiderAutoPartsPartnerTest.xml svneol=native#text/xml
 chapter9/riderautoparts-partner/src/test/resources/log4j.properties svneol=native#text/plain
+chapter9/xa/pom.xml svneol=native#text/xml
+chapter9/xa/src/test/resources/log4j.properties svneol=native#text/plain
+chapter9/xa/src/test/resources/spring-context.xml svneol=native#text/xml
 /pom.xml -text
