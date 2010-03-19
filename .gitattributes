@@ -11,6 +11,9 @@ chapter10/bigfile/src/test/resources/META-INF/spring/BigFileFixedThreadPoolTest.
 chapter10/bigfile/src/test/resources/META-INF/spring/BigFileParallelTest.xml svneol=native#text/xml
 chapter10/bigfile/src/test/resources/META-INF/spring/BigFileSedaTest.xml svneol=native#text/xml
 chapter10/bigfile/src/test/resources/log4j.properties svneol=native#text/plain
+chapter10/custom/pom.xml svneol=native#text/xml
+chapter10/custom/src/test/resources/META-INF/spring/ThreadPoolTest.xml svneol=native#text/xml
+chapter10/custom/src/test/resources/log4j.properties svneol=native#text/plain
 chapter10/pom.xml svneol=native#text/xml
 chapter12/custom/pom.xml svneol=native#text/xml
 chapter12/custom/src/main/resources/log4j.properties svneol=native#text/plain
