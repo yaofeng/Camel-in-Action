@@ -175,6 +175,15 @@ chapter7/ftp/src/main/resources/META-INF/spring/camelContext.xml -text
 chapter7/ftp/src/main/resources/log4j.properties -text
 chapter7/ftp/src/main/resources/users.properties -text
 chapter7/pom.xml -text
+chapter8/pom.xml svneol=native#text/xml
+chapter8/starterkit/pom.xml svneol=native#text/xml
+chapter8/starterkit/src/main/resources/META-INF/spring/camel-client.xml svneol=native#text/xml
+chapter8/starterkit/src/main/resources/META-INF/spring/camel-cxf.xml svneol=native#text/xml
+chapter8/starterkit/src/main/resources/log4j.properties svneol=native#text/plain
+chapter8/starterkit/src/main/resources/wsdl/inventory.wsdl svneol=native#text/xml
+chapter8/starterkit/src/test/resources/META-INF/spring/camel-mocked-seda.xml svneol=native#text/xml
+chapter8/starterkit/src/test/resources/META-INF/spring/camel-mocked.xml svneol=native#text/xml
+chapter8/starterkit/src/test/resources/log4j.properties svneol=native#text/plain
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
 chapter9/multiple-routes/src/test/resources/spring-context.xml svneol=native#text/xml
