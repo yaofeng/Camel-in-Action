@@ -185,6 +185,7 @@ chapter7/ftp/src/main/resources/log4j.properties -text
 chapter7/ftp/src/main/resources/users.properties -text
 chapter7/pom.xml -text
 chapter8/eips/pom.xml svneol=native#text/xml
+chapter8/eips/src/test/resources/META-INF/spring/aggregate-abc-group.xml svneol=native#text/xml
 chapter8/eips/src/test/resources/META-INF/spring/aggregate-abc.xml svneol=native#text/xml
 chapter8/eips/src/test/resources/META-INF/spring/aggregate-abcend.xml svneol=native#text/xml
 chapter8/eips/src/test/resources/META-INF/spring/aggregate-xml.xml svneol=native#text/xml
