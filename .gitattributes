@@ -191,6 +191,7 @@ chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-abc-eager.xml s
 chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-abc-group.xml svneol=native#text/xml
 chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-abc-hawtdb.xml svneol=native#text/xml
 chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-abc-invalid.xml svneol=native#text/xml
+chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-abc-recover.xml svneol=native#text/xml
 chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-abc.xml svneol=native#text/xml
 chapter8/aggregator/src/test/resources/META-INF/spring/aggregate-xml.xml svneol=native#text/xml
 chapter8/aggregator/src/test/resources/a.txt svneol=native#text/plain
