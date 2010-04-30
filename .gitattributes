@@ -203,6 +203,7 @@ chapter8/splitter/pom.xml svneol=native#text/xml
 chapter8/splitter/src/test/resources/META-INF/spring/splitter-abc.xml svneol=native#text/xml
 chapter8/splitter/src/test/resources/META-INF/spring/splitter-aggregate.xml svneol=native#text/xml
 chapter8/splitter/src/test/resources/META-INF/spring/splitter-bean.xml svneol=native#text/xml
+chapter8/splitter/src/test/resources/META-INF/spring/splitter-stop.xml svneol=native#text/xml
 chapter8/splitter/src/test/resources/log4j.properties svneol=native#text/plain
 chapter9/multiple-routes/pom.xml svneol=native#text/xml
 chapter9/multiple-routes/src/test/resources/log4j.properties svneol=native#text/plain
