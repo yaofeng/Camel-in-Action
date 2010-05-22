@@ -56,6 +56,12 @@ chapter13/shutdown/src/test/resources/META-INF/spring/camel-route-defer-java.xml
 chapter13/shutdown/src/test/resources/META-INF/spring/camel-route-java.xml svneol=native#text/xml
 chapter13/shutdown/src/test/resources/META-INF/spring/camel-route-xml.xml svneol=native#text/xml
 chapter13/shutdown/src/test/resources/log4j.properties svneol=native#text/plain
+chapter13/standalone/pom.xml svneol=native#text/xml
+chapter13/standalone/src/main/resources/META-INF/services/org/apache/camel/TypeConverter -text
+chapter13/standalone/src/main/resources/META-INF/spring/camel-context.xml svneol=native#text/xml
+chapter13/standalone/src/main/resources/META-INF/spring/camel-cxf.xml svneol=native#text/xml
+chapter13/standalone/src/main/resources/log4j.properties svneol=native#text/plain
+chapter13/standalone/src/main/resources/wsdl/inventory.wsdl svneol=native#text/xml
 chapter13/startup/pom.xml svneol=native#text/xml
 chapter13/startup/src/main/resources/META-INF/services/org/apache/camel/TypeConverter -text
 chapter13/startup/src/main/resources/wsdl/inventory.wsdl svneol=native#text/xml
