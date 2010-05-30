@@ -69,6 +69,13 @@ chapter13/startup/src/test/resources/META-INF/spring/camel-cxf.xml svneol=native
 chapter13/startup/src/test/resources/META-INF/spring/camel-route-java.xml svneol=native#text/xml
 chapter13/startup/src/test/resources/META-INF/spring/camel-route-xml.xml svneol=native#text/xml
 chapter13/startup/src/test/resources/log4j.properties svneol=native#text/plain
+chapter13/war-servlet/pom.xml svneol=native#text/xml
+chapter13/war-servlet/src/main/resources/META-INF/services/org/apache/camel/TypeConverter -text
+chapter13/war-servlet/src/main/resources/log4j.properties svneol=native#text/plain
+chapter13/war-servlet/src/main/resources/wsdl/inventory.wsdl svneol=native#text/xml
+chapter13/war-servlet/src/main/webapp/WEB-INF/applicationContext.xml svneol=native#text/xml
+chapter13/war-servlet/src/main/webapp/WEB-INF/camel-cxf.xml svneol=native#text/xml
+chapter13/war-servlet/src/main/webapp/WEB-INF/web.xml svneol=native#text/xml
 chapter13/war/pom.xml svneol=native#text/xml
 chapter13/war/src/main/resources/META-INF/services/org/apache/camel/TypeConverter -text
 chapter13/war/src/main/resources/log4j.properties svneol=native#text/plain
