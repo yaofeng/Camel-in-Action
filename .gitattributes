@@ -250,6 +250,7 @@ chapter8/loadbalancer/src/test/resources/META-INF/spring/topic-loadbalancer.xml 
 chapter8/loadbalancer/src/test/resources/log4j.properties svneol=native#text/plain
 chapter8/pom.xml svneol=native#text/xml
 chapter8/routingslip/pom.xml svneol=native#text/xml
+chapter8/routingslip/src/test/resources/META-INF/spring/routingslip-bean.xml svneol=native#text/xml
 chapter8/routingslip/src/test/resources/META-INF/spring/routingslip-header.xml svneol=native#text/xml
 chapter8/routingslip/src/test/resources/META-INF/spring/routingslip-simple.xml svneol=native#text/xml
 chapter8/routingslip/src/test/resources/META-INF/spring/routingslip.xml svneol=native#text/xml
