@@ -26,7 +26,7 @@ chapter10/pools/src/test/resources/log4j.properties svneol=native#text/plain
 chapter10/synchronicity/pom.xml svneol=native#text/xml
 chapter10/synchronicity/src/test/resources/META-INF/spring/earlyreply-context.xml svneol=native#text/xml
 chapter10/synchronicity/src/test/resources/log4j.properties svneol=native#text/plain
-chapter11/custom/src/main/resources/META-INF/services/mycomponent -text
+chapter11/custom/src/main/resources/META-INF/services/org/apache/camel/component/mycomponent -text
 chapter11/scala-order-router-javacontext/src/main/scala/camelinaction/MyRouteBuilder.scala -text
 chapter11/scala-order-router/src/main/scala/camelinaction/MyRouteBuilder.scala -text
 chapter12/custom/pom.xml svneol=native#text/xml
