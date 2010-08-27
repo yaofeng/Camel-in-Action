@@ -1,6 +1,5 @@
 * text=auto !eol
 appendixE/project/build/Project.scala -text
-appendixE/project/plugins/Plugins.scala -text
 appendixE/src/main/scala/SampleActors.scala -text
 appendixE/src/main/scala/SectionE1.scala -text
 appendixE/src/main/scala/SectionE21.scala -text

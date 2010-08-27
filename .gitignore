@@ -11,10 +11,6 @@ appendixE/lib_managed
 appendixE/logs
 appendixE/project/boot
 appendixE/project/build/target
-appendixE/project/plugins/lib_managed
-appendixE/project/plugins/project
-appendixE/project/plugins/src_managed
-appendixE/project/plugins/target
 appendixE/target
 chapter2/*.i??
 chapter2/.checkstyle
