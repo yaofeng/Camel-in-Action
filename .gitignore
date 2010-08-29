@@ -12,6 +12,14 @@ appendixE/logs
 appendixE/project/boot
 appendixE/project/build/target
 appendixE/target
+chapter1/file-copy/*.i??
+chapter1/file-copy/.checkstyle
+chapter1/file-copy/.classpath
+chapter1/file-copy/.pmd
+chapter1/file-copy/.project
+chapter1/file-copy/.settings
+chapter1/file-copy/eclipse-classes
+chapter1/file-copy/target
 chapter2/*.i??
 chapter2/.checkstyle
 chapter2/.classpath
