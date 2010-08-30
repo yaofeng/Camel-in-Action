@@ -11,6 +11,10 @@ appendixE/lib_managed
 appendixE/logs
 appendixE/project/boot
 appendixE/project/build/target
+appendixE/project/plugins/lib_managed
+appendixE/project/plugins/project
+appendixE/project/plugins/src_managed
+appendixE/project/plugins/target
 appendixE/target
 chapter1/file-copy/*.i??
 chapter1/file-copy/.checkstyle
