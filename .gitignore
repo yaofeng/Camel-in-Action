@@ -248,14 +248,6 @@ chapter2/cbr/eclipse-classes
 chapter2/cbr/target
 chapter2/classes
 chapter2/eclipse-classes
-chapter2/file-jms/*.i??
-chapter2/file-jms/.checkstyle
-chapter2/file-jms/.classpath
-chapter2/file-jms/.pmd
-chapter2/file-jms/.project
-chapter2/file-jms/.settings
-chapter2/file-jms/eclipse-classes
-chapter2/file-jms/target
 chapter2/filter/*.i??
 chapter2/filter/.checkstyle
 chapter2/filter/.classpath

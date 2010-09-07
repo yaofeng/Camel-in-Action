@@ -126,10 +126,6 @@ chapter2/cbr/src/main/java/camelinaction/OrderRouter.java -text
 chapter2/cbr/src/main/java/camelinaction/OrderRouterOtherwise.java -text
 chapter2/cbr/src/main/java/camelinaction/OrderRouterWithStop.java -text
 chapter2/cbr/src/main/resources/log4j.properties -text
-chapter2/file-jms/pom.xml -text
-chapter2/file-jms/readme.txt -text
-chapter2/file-jms/src/main/java/camelinaction/RouteBuilderExample.java -text
-chapter2/file-jms/src/main/resources/log4j.properties -text
 chapter2/filter/pom.xml -text
 chapter2/filter/readme.txt -text
 chapter2/filter/src/data/message1.xml -text
