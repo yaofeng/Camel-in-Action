@@ -264,6 +264,14 @@ chapter2/filter/.project
 chapter2/filter/.settings
 chapter2/filter/eclipse-classes
 chapter2/filter/target
+chapter2/ftp-jms/*.i??
+chapter2/ftp-jms/.checkstyle
+chapter2/ftp-jms/.classpath
+chapter2/ftp-jms/.pmd
+chapter2/ftp-jms/.project
+chapter2/ftp-jms/.settings
+chapter2/ftp-jms/eclipse-classes
+chapter2/ftp-jms/target
 chapter2/multicast/*.i??
 chapter2/multicast/.checkstyle
 chapter2/multicast/.classpath

@@ -136,6 +136,10 @@ chapter2/filter/src/data/message1.xml -text
 chapter2/filter/src/data/testmessage.xml -text
 chapter2/filter/src/main/java/camelinaction/OrderRouterWithFilter.java -text
 chapter2/filter/src/main/resources/log4j.properties -text
+chapter2/ftp-jms/pom.xml -text
+chapter2/ftp-jms/readme.txt -text
+chapter2/ftp-jms/src/main/java/camelinaction/RouteBuilderExample.java -text
+chapter2/ftp-jms/src/main/resources/log4j.properties -text
 chapter2/multicast/pom.xml -text
 chapter2/multicast/readme.txt -text
 chapter2/multicast/src/data/message1.xml -text
