@@ -190,6 +190,7 @@ chapter4/bean/src/test/resources/camelinaction/InvokeWithProcessor.xml svneol=na
 chapter4/bean/src/test/resources/camelinaction/xmlOrder.xml svneol=native#text/xml
 chapter4/bean/src/test/resources/log4j.properties svneol=native#text/plain
 chapter4/pom.xml svneol=native#text/xml
+chapter5/errorhandler/src/test/resources/camelinaction/HandleFaultTest.xml svneol=native#text/xml
 chapter5/onexception/pom.xml svneol=native#text/xml
 chapter5/onexception/src/test/resources/log4j.properties svneol=native#text/plain
 chapter5/pom.xml svneol=native#text/xml
