@@ -250,6 +250,8 @@ chapter8/dynamicrouter/pom.xml svneol=native#text/xml
 chapter8/dynamicrouter/src/test/java/camelinaction/DynamicRouterAnnotationBean.java -text
 chapter8/dynamicrouter/src/test/java/camelinaction/DynamicRouterAnnotationTest.java -text
 chapter8/dynamicrouter/src/test/java/camelinaction/SpringDynamicRouterAnnotationTest.java -text
+chapter8/dynamicrouter/src/test/resources/META-INF/spring/dynamicrouter-annotation.xml svneol=native#text/xml
+chapter8/dynamicrouter/src/test/resources/META-INF/spring/dynamicrouter.xml svneol=native#text/xml
 chapter8/dynamicrouter/src/test/resources/log4j.properties svneol=native#text/plain
 chapter8/loadbalancer/pom.xml svneol=native#text/xml
 chapter8/loadbalancer/src/test/resources/META-INF/spring/custom-loadbalancer.xml svneol=native#text/xml
