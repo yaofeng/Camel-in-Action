@@ -4,9 +4,10 @@
 /.pmd
 /.project
 /.settings
-appendixE/appendixE.iml
-appendixE/appendixE.ipr
-appendixE/appendixE.iws
+appendixE/*.iml
+appendixE/*.ipr
+appendixE/*.iws
+appendixE/.idea
 appendixE/lib_managed
 appendixE/logs
 appendixE/project/boot
