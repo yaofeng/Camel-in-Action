@@ -1,13 +1,13 @@
 * text=auto !eol
 appendixE/project/build/Project.scala -text
 appendixE/src/main/scala/SampleActors.scala -text
-appendixE/src/main/scala/SectionE1.scala -text
-appendixE/src/main/scala/SectionE21.scala -text
-appendixE/src/main/scala/SectionE22.scala -text
-appendixE/src/main/scala/SectionE3.scala -text
-appendixE/src/main/scala/SectionE42.scala -text
-appendixE/src/main/scala/SectionE5.scala -text
+appendixE/src/main/scala/SectionE2.scala -text
+appendixE/src/main/scala/SectionE31.scala -text
+appendixE/src/main/scala/SectionE32.scala -text
+appendixE/src/main/scala/SectionE4.scala -text
+appendixE/src/main/scala/SectionE52.scala -text
 appendixE/src/main/scala/SectionE6.scala -text
+appendixE/src/main/scala/SectionE7.scala -text
 chapter1/file-copy/data/inbox/message1.xml -text
 chapter1/file-copy/pom.xml -text
 chapter1/file-copy/src/main/java/camelinaction/FileCopier.java -text
