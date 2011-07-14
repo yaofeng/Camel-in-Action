@@ -40,6 +40,7 @@ chapter10/synchronicity/src/test/resources/META-INF/spring/earlyreply-context.xm
 chapter10/synchronicity/src/test/resources/log4j.properties svneol=native#text/plain
 chapter11/custom/src/main/resources/META-INF/services/org/apache/camel/component/mycomponent -text
 chapter11/scala-router-javacontext/src/main/scala/camelinaction/MyRouteBuilder.scala -text
+chapter11/scala-router/src/main/scala/camelinaction/MyOtherRouteBuilder.scala -text
 chapter11/scala-router/src/main/scala/camelinaction/MyRouteBuilder.scala -text
 chapter12/custom/pom.xml svneol=native#text/xml
 chapter12/custom/src/main/resources/log4j.properties svneol=native#text/plain
